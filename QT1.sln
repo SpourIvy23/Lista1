@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT1", "QT1\QT1.csproj", "{C60041A2-7CF3-4CE9-9EEA-B9B8C4B5B918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT2", "QT2\QT2.csproj", "{04E28124-1FD0-4692-A34B-7047EBFCE928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QT3", "QT3\QT3.csproj", "{1AC77972-7090-4AC8-9103-80EEFB5FADE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C60041A2-7CF3-4CE9-9EEA-B9B8C4B5B918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C60041A2-7CF3-4CE9-9EEA-B9B8C4B5B918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C60041A2-7CF3-4CE9-9EEA-B9B8C4B5B918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C60041A2-7CF3-4CE9-9EEA-B9B8C4B5B918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04E28124-1FD0-4692-A34B-7047EBFCE928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E28124-1FD0-4692-A34B-7047EBFCE928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E28124-1FD0-4692-A34B-7047EBFCE928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E28124-1FD0-4692-A34B-7047EBFCE928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC77972-7090-4AC8-9103-80EEFB5FADE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC77972-7090-4AC8-9103-80EEFB5FADE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC77972-7090-4AC8-9103-80EEFB5FADE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC77972-7090-4AC8-9103-80EEFB5FADE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

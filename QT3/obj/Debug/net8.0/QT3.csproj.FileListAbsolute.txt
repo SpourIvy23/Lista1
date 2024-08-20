@@ -1,0 +1,4 @@
+C:\Users\j02\Documents\Murilo\LogicaDeProgramacao\C#\lista1\QT3\obj\Debug\net8.0\QT3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j02\Documents\Murilo\LogicaDeProgramacao\C#\lista1\QT3\obj\Debug\net8.0\QT3.AssemblyInfoInputs.cache
+C:\Users\j02\Documents\Murilo\LogicaDeProgramacao\C#\lista1\QT3\obj\Debug\net8.0\QT3.AssemblyInfo.cs
+C:\Users\j02\Documents\Murilo\LogicaDeProgramacao\C#\lista1\QT3\obj\Debug\net8.0\QT3.csproj.CoreCompileInputs.cache
