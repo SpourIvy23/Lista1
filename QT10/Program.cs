@@ -5,7 +5,7 @@ cada nível alcançado.
 • Comando: Desenvolva um programa que receba os pontos de vida iniciais e o aumento de vida 
 por nível, e calcule a quantidade de pontos de vida após alcançar um novo nível.
 @Lista: 01 - Lógica de Programação
-@Autor: Chagas Junior
+@Autor: Murilo Pires
 @Data: 25/08/2024
 ---------------------------------------------------------------------*/
 using System;

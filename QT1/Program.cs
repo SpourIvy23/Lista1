@@ -6,7 +6,7 @@ personagem antes de começar a aventura.
 personagem e exiba esses dados no console.
 
 @Lista: 01 - Lógica de Programação
-@Autor: Chagas Junior
+@Autor: Murilo Pires
 @Data: 19/08/2024
 ---------------------------------------------------------------------*/
 using System;

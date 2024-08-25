@@ -6,7 +6,7 @@ Contextualização: No final de uma missão em um jogo, a pontuação do jogador
 a pontuação por inimigo, bônus por missão, e dois multiplicadores 
 (um para tipo de inimigo e outro para dificuldade), e então calcule e exiba a pontuação final.
 @Lista: 01 - Lógica de Programação
-@Autor: Chagas Junior
+@Autor: Murilo Pires 
 @Data: 20/08/2024
 ---------------------------------------------------------------------*/
 using System;

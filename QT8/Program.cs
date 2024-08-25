@@ -5,7 +5,7 @@ distribuídos entre força, agilidade, inteligência e dois atributos adicionais
 • Comando: Desenvolva um programa que receba a quantidade de pontos de habilidade 
 atribuídos a cada uma das cinco características e calcule o total de pontos distribuídos
 @Lista: 01 - Lógica de Programação
-@Autor: Chagas Junior
+@Autor: Murilo Pires
 @Data: 25/08/2024
 ---------------------------------------------------------------------*/
 

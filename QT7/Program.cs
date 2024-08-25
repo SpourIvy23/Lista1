@@ -9,7 +9,7 @@ pelo primeiro tipo de inimigo, o XP concedido pelo segundo tipo de inimigo, o n�
 tipo de inimigo derrotado, e a constante de nível. O programa deve calcular o XP total 
 acumulado após a batalha e determinar o nível atual do jogador.
 @Lista: 01 - Lógica de Programação
-@Autor: Chagas Junior
+@Autor: Murilo Pires
 @Data: 25/08/2024
 ---------------------------------------------------------------------*/
 

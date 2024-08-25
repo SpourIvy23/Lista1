@@ -6,7 +6,7 @@ cristais.
 conversão (1 cristal = X moedas de ouro), e dois bônus de conversão (um baseado em eventos 
 e outro em habilidades), e calcule o número de cristais que o jogador pode obter.
 @Lista: 01 - Lógica de Programação
-@Autor: Chagas Junior
+@Autor: Murilo Pires
 @Data: 25/08/2024
 ---------------------------------------------------------------------*/
 

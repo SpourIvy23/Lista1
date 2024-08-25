@@ -3,7 +3,7 @@ Questão 4: • Contextualização:No seu jogo, o jogador coleta moedas durante 
 de moedas aumenta.
 • Comando: Desenvolva um programa que receba cinco valores de moedas coletadas e some-os
 @Lista: 01 - Lógica de Programação
-@Autor: Chagas Junior
+@Autor: Murilo Pires
 @Data: 25/08/2024
 ---------------------------------------------------------------------*/
 

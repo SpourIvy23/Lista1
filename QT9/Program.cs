@@ -7,7 +7,7 @@ e pelo tipo da arma.
 Comando: habilidades, um modificador de crítico, e um modificador para o tipo da arma. O 
 programa deve calcular o total de ataque do personagem
 @Lista: 01 - Lógica de Programação
-@Autor: Chagas Junior
+@Autor: Murilo Pires
 @Data: 25/08/2024
 ---------------------------------------------------------------------*/
 
